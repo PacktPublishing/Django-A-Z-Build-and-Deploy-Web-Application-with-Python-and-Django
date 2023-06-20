@@ -1,0 +1,4 @@
+Visual Studio Code IDE: https://code.visualstudio.com/
+
+Linux/Mac Basic Command Differences: https://docs.google.com/document/d/1W5ITxtQY4t_nSicB7BjB07QiTMPOcbzip8pajzSsjAg/edit
+
